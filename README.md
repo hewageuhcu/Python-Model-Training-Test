@@ -3,10 +3,12 @@ My first model training try, using python.
 
 Developed using Google Colab online platform.
 
-Loaded a sample dataset
-Split dataset to X and Y
-Split dataset to train/test set
-Build the model with linear regression
-Build the model with random forest
-Compare 2 models
-Data visualizing
+Steps: ⬇️
+
+✅Loaded a sample dataset<br/>
+✅Split dataset to X and Y<br/>
+✅Split dataset to train/test set<br/>
+✅Build the model with linear regression<br/>
+✅Build the model with random forest<br/>
+✅Compare 2 models<br/>
+✅Data visualizing
